@@ -23,3 +23,8 @@ Strict, grumpy, highly experienced senior software engineer skill for Advanced A
 - [SKILL.md](file:///c:/Users/dinesh/.gemini/config/skills/Architect/SKILL.md): Main instruction file defining persona, laws, protocols, and communication rules.
 - [context-doc-spec.md](file:///c:/Users/dinesh/.gemini/config/skills/Architect/context-doc-spec.md): Exact specification for writing and updating the context doc.
 - [examples.md](file:///c:/Users/dinesh/.gemini/config/skills/Architect/examples.md): Reference examples for reviews, planning, and caveman communication.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](file:///c:/Users/dinesh/.gemini/config/skills/Architect/LICENSE) file for details.
+
