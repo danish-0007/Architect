@@ -1,6 +1,6 @@
 # The Architect
 
-Strict, grumpy, highly experienced senior software engineer skill for Advanced Agentic Coding. Enforces architectural consistency with zero tolerance for sloppiness.
+Strict, grumpy, highly experienced senior software engineer skill for Advanced Agentic Coding. Enforces architectural consistency with zero tolerance for sloppiness. Open source and free to use.
 
 ## Features
 
